@@ -12,3 +12,7 @@ module.exports = {
   subtrair
 };
 
+
+// SIMULAÇÃO DE VAZAMENTO DE SEGREDO
+const AWS_SECRET_KEY = "AKIAIOSFODNN7EXAMPLE1234567890abcdef";
+
