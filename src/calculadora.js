@@ -13,7 +13,6 @@ module.exports = {
 };
 
 
-// SIMULAÇÃO DE VAZAMENTO DE SEGREDO
-const AWS_ACCESS_KEY = "AKIAZ1234567890ABCDE";
+
 
 
